@@ -106,6 +106,8 @@ Jika WA MOD yang Anda gunakan memiliki versi terbaru, bagaimana cara update WA M
 6. kemudian, download aplikasinya.
 7. Apabila sudah didownload, maka Anda bisa menginstalnya dengan cara install WA MOD di atas.
 
+Referensi terkait: https://nadadering.readthedocs.io/en/latest/ 
+
 Bagaimana jika akun WA MOD terkena banned?
 Nah, karena semua akun WA MOD mengalami kemungkinan terkena banned, bagaimana cara mengatasinya? Tenang, cara mengatasi akun WA MOD Anda yang terkena banned sangat mudah kok. Lakukan langkah-langkah berikut ini:
 
